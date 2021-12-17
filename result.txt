@@ -1,0 +1,6 @@
+Expression in infix form: 
+5*6+(2-9)
+Expression in postfix form
+56*29-+
+The expression is equal to:
+23
